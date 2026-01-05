@@ -1,38 +1,75 @@
-<div align="center">
-  <h1>👋 Hi, I'm Bhupendra Gaur</h1>
-  <h3>DevOps Engineer | Cloud Specialist</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn)](https://linkedin.com/in/bh-gaur)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=gaurb8863%40gmail.com)](mailto:gaurb8863@gmail.com)
-</div>
+# 👋 Hi, I'm Bhupender Gaur
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/44326343/391666320-c79d2b08-d69b-4da0-8949-609503a3d1b3.jpeg" alt="DevOps Workflow" width="100%">
-</div>
-
-## 🛠️ Tech Stack
-
-**Cloud & Infrastructure**  
-AWS • Docker • Kubernetes • Terraform • Ansible
-
-**Development**  
-Python • Go • Bash • Git • CI/CD
-
-## � GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bh-gaur&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bh-gaur&layout=compact&langs_count=6" />
-</div>
-
-## � Latest Projects
-
-[![Infra Tools](https://github-readme-stats.vercel.app/api/pin/?username=bh-gaur&repo=infra-tools)](https://github.com/bh-gaur/infra-tools)
-[![Cloud Automation](https://github-readme-stats.vercel.app/api/pin/?username=bh-gaur&repo=cloud-automation)](https://github.com/bh-gaur/cloud-automation)
+🚀 **Aspiring DevOps Engineer | Cloud & Automation Enthusiast | Lifelong Learner**
 
 ---
 
-<div align="center">
-  <p>Let's connect and build something amazing! 🚀</p>
-  <p>⭐️ From <a href="https://github.com/bh-gaur">bh-gaur</a></p>
-</div>
+## 👨‍💻 About Me
+
+I am a passionate learner currently focusing on **DevOps** and **modern cloud-native technologies**. I enjoy building, automating, and optimizing systems using industry-standard tools and best practices. My goal is to bridge the gap between development and operations by creating scalable, reliable, and efficient solutions.
+
+* 🌱 Currently learning **DevOps, Cloud, and MLOps fundamentals**
+* 🛠️ Hands-on with automation, CI/CD, and Linux systems
+* 📚 Strong academic background in **Computer Science subjects**
+* 🎯 Aim: Become a skilled **DevOps / Cloud Engineer**
+
+---
+
+## 🧰 Skills & Technologies
+
+### 🔧 DevOps Tools
+
+* Git & GitHub
+* Docker (Containerization)
+* Kubernetes (Basics)
+* Jenkins (CI/CD)
+* Ansible (Configuration Management)
+
+### ☁️ Cloud Platforms
+
+* AWS (EC2, S3, IAM – Basics)
+* Cloud fundamentals & architecture
+
+### 💻 Programming & Scripting
+
+* Python
+* Shell Scripting (Bash)
+* Basic Java
+
+### 🖥️ Operating Systems & Networking
+
+* Linux (Ubuntu, CentOS)
+* TCP/IP, DNS, HTTP/HTTPS
+* Basic Networking Concepts
+
+---
+
+## 📂 Projects
+
+### 🔹 DevOps Practice Projects
+
+* **CI/CD Pipeline using Jenkins & GitHub**
+* **Dockerized Python Applications**
+* **Linux Automation Scripts**
+* **Basic Kubernetes Deployments**
+
+👉 Check out my repositories for hands-on learning projects and experiments.
+
+---
+
+## 📈 Current Focus
+
+* Advanced **Docker & Kubernetes**
+* **AWS Cloud Services**
+* **Infrastructure as Code (IaC)**
+* **MLOps & Cloud AI basics**
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [bh-gaur](https://github.com/bh-gaur)
+
+---
+
+⭐ *I believe in continuous learning and improving every day through practice and real-world projects.*
