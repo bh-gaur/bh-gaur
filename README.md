@@ -8,9 +8,8 @@
 
 I am a passionate learner currently focusing on **DevOps** and **modern cloud-native technologies**. I enjoy building, automating, and optimizing systems using industry-standard tools and best practices. My goal is to bridge the gap between development and operations by creating scalable, reliable, and efficient solutions.
 
-* 🌱 Currently learning **DevOps, Cloud, and MLOps fundamentals**
+* 🌱 Currently learning **DevOps, Cloud**
 * 🛠️ Hands-on with automation, CI/CD, and Linux systems
-* 📚 Strong academic background in **Computer Science subjects**
 * 🎯 Aim: Become a skilled **DevOps / Cloud Engineer**
 
 ---
@@ -34,11 +33,10 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 
 * Python
 * Shell Scripting (Bash)
-* Basic Java
 
 ### 🖥️ Operating Systems & Networking
 
-* Linux (Ubuntu, CentOS)
+* Linux (Ubuntu)
 * TCP/IP, DNS, HTTP/HTTPS
 * Basic Networking Concepts
 
@@ -62,7 +60,6 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 * Advanced **Docker & Kubernetes**
 * **AWS Cloud Services**
 * **Infrastructure as Code (IaC)**
-* **MLOps & Cloud AI basics**
 
 ---
 
