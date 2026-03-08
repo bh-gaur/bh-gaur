@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhupender Gaur
+# 👋 Hi, I'm Bhupender Gaur 
 
 🚀 **Aspiring DevOps Engineer | Cloud & Automation Enthusiast | Lifelong Learner**
 
@@ -18,27 +18,27 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 
 ### 🔧 DevOps Tools
 
-* Git & GitHub
-* Docker (Containerization)
-* Kubernetes (Basics)
-* Jenkins (CI/CD)
-* Ansible (Configuration Management)
+* Git & GitHub 📚
+* Docker (Containerization) 🐳
+* Kubernetes (Basics) ☸️
+* Jenkins (CI/CD) 🔄
+* Ansible (Configuration Management) ⚙️
 
 ### ☁️ Cloud Platforms
 
-* AWS (EC2, S3, IAM – Basics)
-* Cloud fundamentals & architecture
+* AWS (EC2, S3, IAM – Basics) ☁️
+* Cloud fundamentals & architecture 🏗️
 
 ### 💻 Programming & Scripting
 
-* Python
-* Shell Scripting (Bash)
+* Python 🐍
+* Shell Scripting (Bash) 💻
 
 ### 🖥️ Operating Systems & Networking
 
-* Linux (Ubuntu)
-* TCP/IP, DNS, HTTP/HTTPS
-* Basic Networking Concepts
+* Linux (Ubuntu) 🐧
+* TCP/IP, DNS, HTTP/HTTPS 🌐
+* Basic Networking Concepts 🔌
 
 ---
 
@@ -46,10 +46,10 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 
 ### 🔹 DevOps Practice Projects
 
-* **CI/CD Pipeline using Jenkins & GitHub**
-* **Dockerized Python Applications**
-* **Linux Automation Scripts**
-* **Basic Kubernetes Deployments**
+* **CI/CD Pipeline using Jenkins & GitHub** 🚀
+* **Dockerized Python Applications** 🐍
+* **Linux Automation Scripts** ⚡
+* **Basic Kubernetes Deployments** ☸️
 
 👉 Check out my repositories for hands-on learning projects and experiments.
 
@@ -57,16 +57,17 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 
 ## 📈 Current Focus
 
-* Advanced **Docker & Kubernetes**
-* **AWS Cloud Services**
-* **Infrastructure as Code (IaC)**
+* Advanced **Docker & Kubernetes** 🐳☸️
+* **AWS Cloud Services** ☁️
+* **GCP Cloud Services** ☁️
+* **Infrastructure as Code (IaC)** 🏗️
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: [bh-gaur](https://github.com/bh-gaur)
-* LinkedIn: [Bhupender Gaur](https://www.linkedin.com/in/bhupender-gaur-9227852b8/)
+* GitHub: [bh-gaur](https://github.com/bh-gaur) 🐙
+* LinkedIn: [Bhupender Gaur](https://www.linkedin.com/in/bhupender-gaur-9227852b8/) 💼
 
 ---
 
