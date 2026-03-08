@@ -66,6 +66,7 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 ## 📫 Connect With Me
 
 * GitHub: [bh-gaur](https://github.com/bh-gaur)
+* LinkedIn: [Bhupender Gaur](https://www.linkedin.com/in/bhupender-gaur-9227852b8/)
 
 ---
 
