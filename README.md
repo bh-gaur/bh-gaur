@@ -23,10 +23,12 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 * Kubernetes (Basics) ☸️
 * Jenkins (CI/CD) 🔄
 * Ansible (Configuration Management) ⚙️
+* Terraform 🏗️
 
 ### ☁️ Cloud Platforms
 
-* AWS (EC2, S3, IAM – Basics) ☁️
+* AWS (EC2, S3, IAM, VPC) ☁️
+* GCP (GKE, VPC, Compute Engine, IAM, Cloud Storage, Artifact Registry) ☁️
 * Cloud fundamentals & architecture 🏗️
 
 ### 💻 Programming & Scripting
@@ -50,6 +52,7 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 * **Dockerized Python Applications** 🐍
 * **Linux Automation Scripts** ⚡
 * **Basic Kubernetes Deployments** ☸️
+* **Terraform Infrastructure as Code** 🏗️
 
 👉 Check out my repositories for hands-on learning projects and experiments.
 
