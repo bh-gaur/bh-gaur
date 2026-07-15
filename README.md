@@ -20,7 +20,7 @@ I am a passionate learner currently focusing on **DevOps** and **modern cloud-na
 
 * Git & GitHub 📚
 * Docker (Containerization) 🐳
-* Kubernetes (Basics) ☸️
+* Kubernetes ☸️
 * Jenkins (CI/CD) 🔄
 * Ansible (Configuration Management) ⚙️
 * Terraform 🏗️
